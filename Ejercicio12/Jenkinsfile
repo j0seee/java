@@ -1,0 +1,33 @@
+pipeline {
+    agent any
+    stages {
+        stage('Barcelona') {
+            steps {
+                script {
+                    echo 'La ciudad de Barcelona tiene una poblacion de 80000.0'
+                }
+            }
+        }
+        stage('Madrid') {
+            steps {
+                script {
+                    echo 'La ciudad de Madrid tiene una poblacion de 800000.0'
+                }
+            }
+        }
+         stage('Málaga') {
+            steps {
+                script {
+                    echo 'La ciudad de Malaga (la mejor de todas) tiene una poblacion de 40000.0'
+                }
+            }
+        }
+		stage('Sevilla') {
+            steps {
+                script {
+                    echo 'La ciudad de Sevilla tiene una poblacion de 64000.0'
+                }
+            }
+        }
+    }
+}
