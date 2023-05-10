@@ -20,7 +20,7 @@ public class Main {
                         "        stage('Barcelona') {\n" +
                         "            steps {\n" +
                         "                script {\n" +
-                        "                    echo 'La ciudad de " + Barcelona.nombre + " tiene una población de " + Barcelona.poblacion_final() + "'\n" +
+                        "                    echo 'La ciudad de " + Barcelona.nombre + " tiene una poblacion de " + Barcelona.poblacion_final() + "'\n" +
                         "                }\n" +
                         "            }\n" +
                         "        }\n" +
@@ -31,7 +31,7 @@ public class Main {
                         "                }\n" +
                         "            }\n" +
                         "        }\n" +
-                        "         stage('Málaga') {\n" +
+                        "         stage('Malaga') {\n" +
                         "            steps {\n" +
                         "                script {\n" +
                         "                    echo 'La ciudad de " + Malaga.nombre + " (la mejor de todas) tiene una población de " + Malaga.poblacion_final() + "'\n"+
