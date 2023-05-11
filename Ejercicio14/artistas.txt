@@ -1,0 +1,10 @@
+Artista numero: 1: Nombre:Dellafuente ; Género: Musica Folklorica Atemporal; Cantidad de reproducciones: 2991613; País donde más se le escucha: España; Recaudación monetaria: 59832.26; Proyección anual: 717987.12
+
+Artista numero: 2: Nombre:Recycled J ; Género: Rap/R&B; Cantidad de reproducciones: 1291591; País donde más se le escucha: España; Recaudación monetaria: 25831.82; Proyección anual: 309981.83999999997
+
+Artista numero: 3: Nombre:Taylor Swift ; Género: Pop; Cantidad de reproducciones: 83956266; País donde más se le escucha: USA; Recaudación monetaria: 1679125.32; Proyección anual: 2.014950384E7
+
+Artista numero: 4: Nombre:Selecta ; Género: Electrónica; Cantidad de reproducciones: 740824; País donde más se le escucha: España; Recaudación monetaria: 14816.48; Proyección anual: 177797.76
+
+Artista numero: 5: Nombre:The National ; Género: Indie Rock; Cantidad de reproducciones: 7917423; País donde más se le escucha: USA; Recaudación monetaria: 158348.46; Proyección anual: 1900181.52
+
