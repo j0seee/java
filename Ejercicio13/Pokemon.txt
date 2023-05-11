@@ -1,0 +1,4 @@
+POKEMON NUMERO 472
+Nombre: gliscor
+Tipos: ground/flying
+Peso: 425.0
