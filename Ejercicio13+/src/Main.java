@@ -70,6 +70,11 @@ public class Main {
                 try {
                     int ID = Integer.parseInt(textField.getText()); // El ID lo escribimos nosotros
                     
+                    infoPanel.removeAll();
+                    infoPanel.revalidate();
+                    infoPanel.repaint();
+                    spriteLabel.setIcon(null);
+                    
                     // Conectamos con la API
                     URL url = new URL("https://pokeapi.co/api/v2/pokemon/" + ID);
                     HttpURLConnection con = (HttpURLConnection) url.openConnection();
