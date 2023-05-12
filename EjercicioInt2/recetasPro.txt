@@ -1,0 +1,8 @@
+
+Comida numero 1: PAELLA
+ Ingredientes: [Aceite, Cebolla, Ajo, Pimiento, Pimiento, Calamares, Vino, Tomate, Arroz, Azafrán, Agua, Mejillones, Almejas, Camarones, Vieiras, Berberechos, Langostinos]
+Tiene un total de 51 calorias, y tardamos en prepararla un total de 17 minutos.
+
+Comida numero 2: TORTILLA DE PATATA
+ Ingredientes: [Huevos, Patatas, Aceite, Cebolla, Sal]
+Tiene un total de 15 calorias, y tardamos en prepararla un total de 5 minutos.

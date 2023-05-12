@@ -1,0 +1,12 @@
+pipeline {
+    agent any
+    stages {
+        stage('Resultados') {
+            steps {
+                script {
+                    echo 'Se ha leido un archivo de recetas que contenía 2 recetas en total '
+                }
+            }
+        }
+    }
+}
