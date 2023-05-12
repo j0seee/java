@@ -49,11 +49,12 @@ public class Main {
 		        }
 		    }
 
-		    // crear una instancia para la última receta
+		    //Añadimos la comida que hemos leido a la lista
 		    Comida comida = new Comida(nombre, ingredientes);
 		    comidas.add(comida);
 
 		    scanner.close();
+			
 		} catch (FileNotFoundException e) {
 		    e.printStackTrace();
 		}
